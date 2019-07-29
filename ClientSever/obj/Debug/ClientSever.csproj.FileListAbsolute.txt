@@ -1,0 +1,7 @@
+C:\Users\anjain\source\repos\ClientSever\ClientSever\bin\Debug\ClientSever.exe.config
+C:\Users\anjain\source\repos\ClientSever\ClientSever\bin\Debug\ClientSever.exe
+C:\Users\anjain\source\repos\ClientSever\ClientSever\bin\Debug\ClientSever.pdb
+C:\Users\anjain\source\repos\ClientSever\ClientSever\obj\Debug\ClientSever.csprojAssemblyReference.cache
+C:\Users\anjain\source\repos\ClientSever\ClientSever\obj\Debug\ClientSever.csproj.CoreCompileInputs.cache
+C:\Users\anjain\source\repos\ClientSever\ClientSever\obj\Debug\ClientSever.exe
+C:\Users\anjain\source\repos\ClientSever\ClientSever\obj\Debug\ClientSever.pdb
